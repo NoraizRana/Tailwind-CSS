@@ -28,7 +28,7 @@ Welcome to my Tailwind CSS practice and project collection! This repository cont
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/tailwind-css-practice.git
+   git clone https://github.com/NoraizRana/tailwind-css-practice.git
    cd tailwind-css-practice
 ````
 
